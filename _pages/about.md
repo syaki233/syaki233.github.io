@@ -12,9 +12,9 @@ redirect_from:
 <body>
 <font size="3">
 <P> PhD student from <a href="https://www.miyazaki-u.ac.jp/english/" target="_blank" >University of Miyazaki</a>, Japan. I am extremely fortunate to be advised by <a href="https://srhumdb.miyazaki-u.ac.jp/html/653_en.html" target="_blank" >Prof. Yoshihiro Suzuki</a> of <a href="http://www.suzuki-labo.com/" target="_blank" >Suzuki-lab</a>. <br /></p>
-<P> My current research focuses on antibiotic-resistant problems that faced in human life and water environments. My interests are on the Antibiotic Resistance and its spread in wastewater treatment plants. Wastewater treatment plants are responsible for collecting and treating municipal wastewater, although with treatment process, it is difficult to completely remove antibiotic-resistant bacteria from wastewater. In a word, Wastewater treatment plants have the potential to become reservoirs of antibiotic-resistant bacteria in the water environment, posing a threat to ecosystems and human health. I hope to devote all my knowledge and efforts to this meaningful work for the well-being of society.<br /></p>
+<p style="text-align:justify; text-justify:inter-ideograph;"> My current research focuses on antibiotic-resistant problems that faced in human life and water environments. My interests are on the Antibiotic Resistance and its spread in wastewater treatment plants. Wastewater treatment plants are responsible for collecting and treating municipal wastewater, although with treatment process, it is difficult to completely remove antibiotic-resistant bacteria from wastewater. In a word, Wastewater treatment plants have the potential to become reservoirs of antibiotic-resistant bacteria in the water environment, posing a threat to ecosystems and human health. I hope to devote all my knowledge and efforts to this meaningful work for the well-being of society.</p><br /></p>
 <P><b>Key words</b>: water environment, environmental biotechnology, wastewater treatment plants, antibiotic resistance, public health  <br /></p>
-
+</p>
 <hr />  
 
 <P><b><big>Educations</big></b><br>
