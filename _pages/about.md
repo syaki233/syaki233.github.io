@@ -13,14 +13,17 @@ redirect_from:
 <font size="3">
 <P> PhD student from <a href="https://www.miyazaki-u.ac.jp/english/" target="_blank" >University of Miyazaki</a>, Japan. <br /></p>
 <P> I am extremely fortunate to be advised by <a href="https://srhumdb.miyazaki-u.ac.jp/html/653_en.html" target="_blank" >Prof. Yoshihiro Suzuki</a> of <a href="http://www.suzuki-labo.com/" target="_blank" >Suzuki-lab</a>. <br /></p>
-<P> Key words: water environment, environmental biotechnology, wastewater treatment plants, antibiotic resistance, public health  <br /></p>
+<P>  My current research focuses on antibiotic-resistant problems that faced in human life and water environments. My interests are on the Antibiotic Resistance and its spread in wastewater treatment plants. Wastewater treatment plants are responsible for collecting and treating municipal wastewater, although with treatment process, it is difficult to completely remove antibiotic-resistant bacteria from wastewater. In a word, Wastewater treatment plants have the potential to become reservoirs of antibiotic-resistant bacteria in the water environment, posing a threat to ecosystems and human health. I hope to devote all my knowledge and efforts to this meaningful work for the well-being of society.<br /></p>
+<P><b>Key words</b>: water environment, environmental biotechnology, wastewater treatment plants, antibiotic resistance, public health  <br /></p>
 
 <hr />  
 
 <P><b><big>Educations</big></b><br>
-- 2017.06 BSc, Faculty of Environmental Science and Engineering, Ocean University of China (OUC), China <br>
-- 2020.09 MSc, Faculty of Engineering, University of Miyazaki (UOM), Japan <br>
-- 2023.03 PhD, Interdisciplinary Graduate School of Agriculture and Engineering, University of Miyazaki (UOM), Japan <br>
+<ul>
+ <li>2017.06 BSc, Faculty of Environmental Science and Engineering, Ocean University of China (OUC), China </li><br>
+ <li>2020.09 MSc, Faculty of Engineering, University of Miyazaki (UOM), Japan </li><br>
+ <li>2023.03 PhD, Interdisciplinary Graduate School of Agriculture and Engineering, University of Miyazaki (UOM), Japan </li><br>
+</ul>
 </p>
 
 <hr />
