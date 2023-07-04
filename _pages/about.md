@@ -18,9 +18,9 @@ My current research focuses on antibiotic-resistant problems that faced in human
 <hr />  
 
 <P><b><big>Educations</big></b><br>
- ○ 2017.06 BSc, Faculty of Environmental Science and Engineering, Ocean University of China (OUC), China <br>
- ○ 2020.09 MSc, Faculty of Engineering, University of Miyazaki (UOM), Japan <br>
- ○ 2023.09 PhD, Interdisciplinary Graduate School of Agriculture and Engineering, University of Miyazaki (UOM), Japan <br>
+ • 2017.06 BSc, Faculty of Environmental Science and Engineering, Ocean University of China (OUC), China <br>
+ • 2020.09 MSc, Faculty of Engineering, University of Miyazaki (UOM), Japan <br>
+ • 2023.09 PhD, Interdisciplinary Graduate School of Agriculture and Engineering, University of Miyazaki (UOM), Japan <br>
 </p>
 
 <hr />
