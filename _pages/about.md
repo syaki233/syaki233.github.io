@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<font size="3">
+<html>
+<body>
+<font size="2">
 <P>
 PhD student from [University of Miyazaki](https://www.miyazaki-u.ac.jp/english/), Japan. <br />
 </p>
@@ -18,7 +20,6 @@ PhD student from [University of Miyazaki](https://www.miyazaki-u.ac.jp/english/)
 <P> Key words: water environment, environmental biotechnology, wastewater treatment plants, antibiotic resistance, public health  <br />
 </p>
   
-<font size="4">
 <P><b>Educations<b><br>
 <hr />
 - 2017.06 BSc, Faculty of Environmental Science and Engineering, Ocean University of China (OUC), China <br>
@@ -34,3 +35,6 @@ Interdisciplinary Graduate School of Agriculture and Engineering <br>
 University of Miyazaki (UOM) <br>
 TEL：+81-070-2616-1253 <br>
 E-mail：z370702@student.miyazaki-u.ac.jp <br>
+
+</body>
+</html>
