@@ -8,18 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-<font size="2">
+<font size="6">
+<P>
 PhD student from [University of Miyazaki](https://www.miyazaki-u.ac.jp/english/), Japan. <br />
-I am extremely fortunate to be advised by [Prof. Yoshihiro Suzuki](https://srhumdb.miyazaki-u.ac.jp/html/653_en.html) of [Suzuki-lab](http://www.suzuki-labo.com/). <br />
-
-Key words: water environment, environmental biotechnology, wastewater treatment plants, antibiotic resistance, public health  <br />
-
-Educations
+</p>
+<P>
+<P> I am extremely fortunate to be advised by [Prof. Yoshihiro Suzuki](https://srhumdb.miyazaki-u.ac.jp/html/653_en.html) of [Suzuki-lab](http://www.suzuki-labo.com/). <br />
+</p>
+<P> Key words: water environment, environmental biotechnology, wastewater treatment plants, antibiotic resistance, public health  <br />
+</p>
+  
+<P>
+**Educations**
 ======
 - 2017.06 BSc, Faculty of Environmental Science and Engineering, Ocean University of China (OUC), China <br>
 - 2020.09 MSc, Faculty of Engineering, University of Miyazaki (UOM), Japan <br>
 - 2023.03 PhD, Interdisciplinary Graduate School of Agriculture and Engineering, University of Miyazaki (UOM), Japan <br>
-
+</p>
 
 For more info
 ------
