@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 <font size="2">
-PhD student from [University of Miyazaki](https://www.miyazaki-u.ac.jp/english/), Japan. <br>
-I am extremely fortunate to be advised by [Prof. Yoshihiro Suzuki](https://srhumdb.miyazaki-u.ac.jp/html/653_en.html) of [Suzuki-lab](http://www.suzuki-labo.com/). <br>
+PhD student from [University of Miyazaki](https://www.miyazaki-u.ac.jp/english/), Japan. <br />
+I am extremely fortunate to be advised by [Prof. Yoshihiro Suzuki](https://srhumdb.miyazaki-u.ac.jp/html/653_en.html) of [Suzuki-lab](http://www.suzuki-labo.com/). <br />
 
-Key words: water environment, environmental biotechnology, wastewater treatment plants, antibiotic resistance, public health  <br>
+Key words: water environment, environmental biotechnology, wastewater treatment plants, antibiotic resistance, public health  <br />
 
 Educations
 ======
