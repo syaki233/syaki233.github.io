@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Hui Xie"
   avatar           : "HX.png"
-  bio              : "Learn from yesterday."
-  location         : "https://www.google.com/maps/search/miyazaki+university/@31.8365935,131.3865225,13z?entry=ttu"
+  bio              : "If you think it, you can do it"
+  location         :  # https://www.google.com/maps/search/miyazaki+university/@31.8365935,131.3865225,13z?entry=ttu
   employer         :
   pubmed           :  # https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow
   googlescholar    :  # http://yourfullgooglescholarurl.com
   email            : 
-  sciprofiles      :  "https://sciprofiles.com/profile/2020827"
+  researchgate     :  "https://sciprofiles.com/profile/2020827"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/syaki233/syaki233.github.io"
+  github           : "https://github.com/syaki233"
   google_plus      :
   keybase          :
   instagram        :
