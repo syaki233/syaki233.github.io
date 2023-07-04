@@ -1,23 +1,23 @@
 # main links links
-main:
-  - title: "News"
-    url: /year-archive/
+# main:
+#  - title: "News"
+#    url: /year-archive/
 
-  - title: "Portfile"
-    url: /cv/
+#  - title: "Portfile"
+#    url: /cv/
 
-  - title: "Research"
-    url: /teaching/    
+#  - title: "Research"
+#    url: /teaching/    
     
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
 
-  - title: "Conferences"
-    url: /talks/    
+#  - title: "Conferences"
+#    url: /talks/    
 
-  - title: "Awards and funding"
-    url: /portfolio/  
+#  - title: "Awards and funding"
+#    url: /portfolio/  
     
-  - title: "Link"
-    url: /markdown/
+#  - title: "Link"
+#    url: /markdown/
     
