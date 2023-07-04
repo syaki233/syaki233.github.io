@@ -10,9 +10,9 @@ redirect_from:
 
 <html>
 <body>
-<font size="2.5">
-<P> PhD student from University of Miyazaki, Japan. <br /></p>
-<P> I am extremely fortunate to be advised by Prof. Yoshihiro Suzuki of Suzuki-lab. <br /></p>
+<font size="3">
+<P> PhD student from <a href="https://www.miyazaki-u.ac.jp/english/" target="_blank" >University of Miyazaki</a>, Japan. <br /></p>
+<P> I am extremely fortunate to be advised by <a href="https://srhumdb.miyazaki-u.ac.jp/html/653_en.html" target="_blank" >Prof. Yoshihiro Suzuki</a> of <a href="http://www.suzuki-labo.com/" target="_blank" >Suzuki-lab</a>. <br /></p>
 <P> Key words: water environment, environmental biotechnology, wastewater treatment plants, antibiotic resistance, public health  <br /></p>
 
 <hr />  
@@ -24,7 +24,7 @@ redirect_from:
 </p>
 
 <hr />
-<P><b>For more information</b><br>
+<P><b><big>For more information</big></b><br>
 Gakuen Kibanadai-nishi 1-1, Miyazaki, 889-2192 JAPAN <br>
 Department of Environment and Resource Sciences <br>
 Interdisciplinary Graduate School of Agriculture and Engineering <br>
@@ -32,5 +32,3 @@ University of Miyazaki (UOM) <br>
 TEL：+81-070-2616-1253 <br>
 E-mail：z370702@student.miyazaki-u.ac.jp <br>
 <P>
-</html>
-</body>
