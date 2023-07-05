@@ -18,9 +18,16 @@ My current research focuses on antibiotic-resistant problems that faced in human
 <hr />  
 
 <P><b><big>Educations</big></b><br>
- • 2017.06 BSc, Faculty of Environmental Science and Engineering, Ocean University of China (OUC), China <br>
- • 2020.09 MSc, Faculty of Engineering, University of Miyazaki (UOM), Japan <br>
- • 2023.09 PhD, Interdisciplinary Graduate School of Agriculture and Engineering, University of Miyazaki (UOM), Japan <br>
+ • 2017. 06：BSc, <a href="http://eweb.ouc.edu.cn/ese/" target="_blank" >Collage of Environmental Science and Engineering</a>, <a href="http://eweb.ouc.edu.cn/" target="_blank" >Ocean University of China (OUC)</a>, China <br>
+ • 2020. 09：MSc, <a href="https://www.miyazaki-u.ac.jp/tech/english/index_en.html" target="_blank" >Faculty of Engineering</a>, <a href="https://www.miyazaki-u.ac.jp/english/" target="_blank" >University of Miyazaki (UOM)</a>, Japan <br>
+ • 2023. 09：PhD, <a href="https://www.miyazaki-u.ac.jp/tech/agr_eng/english/index.html" target="_blank" >Interdisciplinary Graduate School of Agriculture and Engineering</a>, <a href="https://www.miyazaki-u.ac.jp/english/" target="_blank" >University of Miyazaki (UOM)</a>, Japan <br>  
+</p>
+<hr />  
+
+<P><b><big>Awards and funding</big></b><br>
+ • 2021. 10：Awarded the Japanese Private Scholarship —— <a href="http://as-isf.com/" target="_blank" >ASSURAN International Scholarship</a>, Japan <br>
+ • 2022. 04：Awarded the <a href="https://www.jsps.go.jp/english/e-pd/" target="_blank" >Doctoral Course (DC) Research Fellowships</a> of <a href="https://www.jsps.go.jp/english/" target="_blank" >Japan Society for the Promotion of Science (JSPS)</a>, Japan <br>
+ • 2022. 04：Funded by the <a href="https://www.jsps.go.jp/english/e-grants/" target="_blank" >Grants-in-Aid for Scientific Research (KAKENHI)</a> from <a href="https://www.jsps.go.jp/english/" target="_blank" >Japan Society for the Promotion of Science (JSPS)</a>, Japan <br>
 </p>
 <hr />  
 
